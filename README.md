@@ -23,7 +23,8 @@ Valitud veerge näidatakse uues tabelis
 
 Valitud veergu väärtuste põhjal koostatakse filtreeritud tabel (nt. nimi: Karmo Jae; kool: Tallinna Reaalkool; koht: 1. jne.)
 
-![](https://github.com/anriwv/l23/blob/main/png/kool.png)
-
 ![](https://github.com/anriwv/l23/blob/main/png/koht.png)
 
++graafik
+
+![](https://github.com/anriwv/l23/blob/main/png/kool.png)
