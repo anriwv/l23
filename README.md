@@ -25,6 +25,6 @@ Valitud veergu väärtuste põhjal koostatakse filtreeritud tabel (nt. nimi: Kar
 
 ![](https://github.com/anriwv/l23/blob/main/png/koht.png)
 
-+graafik
++graafik (peab olema valitud Nimi, kuna kasutatakse tema punkte ja koha Value)
 
 ![](https://github.com/anriwv/l23/blob/main/png/kool.png)
