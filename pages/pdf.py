@@ -16,7 +16,7 @@ def show_pdf(file_path):
     </script>
     """
     
-    st.write(pdf_display, unsafe_allow_html=True)
+    st.markdown(pdf_display, unsafe_allow_html=True)
 
 
 show_pdf('2023-10-09-lv-tulx.pdf')
